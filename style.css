@@ -1,6 +1,6 @@
 @font-face {
-    font-family: 'More Sugar';
-    src: url(/fonts/MoreSugar-Regular.ttf);
+    font-family: 'More Sugar'; 
+    src: url(https://raw.githubusercontent.com/krbustamante1904/educarte/main/fonts/MoreSugar-Regular.ttf);
 }
 
 * {
