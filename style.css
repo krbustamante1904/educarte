@@ -88,4 +88,12 @@ article p {
         font-size: 40px;
         line-height: 1.4;
     }
+    article {
+        clear: both;
+        width: 100%;
+        height: auto; 
+        background-repeat: no-repeat !important;
+        background-size: contain !important; 
+        background-position: center !important; 
+    }
 }
